@@ -1,4 +1,6 @@
+<div align="center">
 <h1><p>Olá me chamo Gabriel Bravati, e este é o meu Github!</p></h1>
+ </div>
 <div align="center">
   <a href="https://github.com/gabrielbravati">
   <img height="150em" align="center"src="https://github-readme-stats.vercel.app/api?username=gabrielbravati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
