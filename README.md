@@ -7,15 +7,15 @@
 </div>
 
 <div align="center" style="display: inline_block">
-    <h2>Skills</h2>
+  <h2>Skills</h2>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  <img align="center" alt="Js" height="50" width="50" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  <img align="center" alt="node" height="50" width="50" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  <img align="center" alt="bootstrap" height="50" width="50" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  <img align="center" alt="jquery" height="50" width="50" 
-
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="jQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
 </div>
+
 <div align="center">
 <h2>Contatos</h2>
      <a href="https://www.gabrielbravati.dev" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_color=black&up_message=Portf%C3%B3lio&url=https%3A%2F%2Fwww.gabrielbravati.dev%2F" target="_blank"></a> 
